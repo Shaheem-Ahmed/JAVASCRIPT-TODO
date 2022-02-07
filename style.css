@@ -1,0 +1,52 @@
+  .IN-WORD {
+    padding: 10px;
+    margin: 5px;
+    border-left: 6px solid ;
+    border: 1px solid #1b8800;
+    border-radius: 0 8px 8px 0;
+    font-size: 1.2em;
+    background-color: #7ce063;
+    color: #1b8800;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .BTN {
+    padding: 10px;
+    margin: 30px;
+    border-radius: 50px;
+    color: white;
+    background-color: #1b8800;
+    width: 100px;
+    height: 50px;
+  }
+
+  .BTN-2 {
+    padding: 8px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #1b8800;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
+    margin: 5px;
+    width: 100px;
+    height: 50px;
+}
+
+  .TEXT{
+    padding: 10px;
+    font-size: 2em;
+    width: 700px;
+}
+
+
+  .HEAD {
+    width: 95%;
+    max-width: 600px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+  
